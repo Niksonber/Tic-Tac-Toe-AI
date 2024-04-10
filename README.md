@@ -1,5 +1,5 @@
 # Tic-Tac-Toe-AI
-Minimal implementation of Tic Tac Toe AI using MinMax algorithm with interface used to teach AI concepts
+Minimal implementation of Tic Tac Toe AI using MiniMax algorithm with interface used to teach AI concepts
 
 ![](images/usage.gif)
 
@@ -31,9 +31,9 @@ Depth-first search is strategy to search in state space. In this technique one f
 
 ![DFS gif](images/dfs.gif)
 
-## MinMax algorithm
-MinMax is an algorithm that try to maximize the own reward assuming that the enemy will try to do the same.
+## MiniMax algorithm
+MiniMax is an algorithm that try to maximize the own reward assuming that the enemy will try to do the same.
 
-![](images/min-max.png)
+![](images/mini-max.png)
 
-![](images/min-max-tictactoe-exemple.png)
+![](images/mini-max-tictactoe-exemple.png)
